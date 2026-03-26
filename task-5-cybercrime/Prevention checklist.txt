@@ -1,0 +1,25 @@
+Stay Safe Online – Checklist for College Students in India
+
+1. Use unique and strong passwords for all accounts. It is recommended to create a password of at least 12 characters, including a mix of alphabets, numbers, and special characters. Avoid using your name, date of birth, or college name as a password.
+
+2. Activate 2FA for all critical accounts like email, social media, banking apps, and college portals. This adds an extra layer of security to your accounts, even if the password is      compromised.
+
+3. Never share your OTP, UPI PIN, CVV, or other bank-related information with anyone. Banks will never ask for your information via calls, messages, or emails.
+
+4. While using the UPI app like Google Pay, PhonePe, or Paytm, verify the payment requests carefully before approving them. Check whether the request says “Pay” or “Collect.” Scammers generally use the word “Collect” to transfer money to your account.
+
+5. Never scan random QR codes to accept money from unknown people.
+
+6. Do not perform any financial transactions while using public Wi-Fi at railway stations, cafes, or shopping malls for net banking or UPI payments.
+
+7. Be cautious of phishing emails, internship scams, and scholarship scams.
+
+8. Always verify the sender’s email ID and avoid clicking on suspicious links or downloading attachments from unknown sources.
+
+9. Ensure that your devices are updated and that you install applications only from app stores. This will help you avoid cyber attacks, as updates help to fix vulnerabilities in the system. Also, install antivirus software on your laptop.
+
+10. Ensure the privacy of your social media accounts. Do not post personal information like ID cards, phone numbers, home addresses, plans to go out of town, or your location. Also, make sure that your accounts are private.
+
+11. Always log out of your accounts while using a computer at a cyber cafe or college. Do not save passwords on the computer, and check your academic and financial accounts for suspicious activities.
+
+12.If you are a victim of cyber fraud, you must report it as soon as possible to ensure the chances of getting your money back. You can file a complaint at the National Cyber Crime Portal (cybercrime.gov.in) or contact the Cyber Crime Helpline at 1930. It is very important to report cyber crimes within the first hour of the incident.
